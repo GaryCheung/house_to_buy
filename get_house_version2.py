@@ -229,7 +229,7 @@ def get_iwjw_house(urls,source):
                 name = name.get_text().strip()
                 name = name.encode('UTF-8', 'ignore')
                 price = price.get_text()
-                area = re.findall(r'(\w*[0-9]+\.*[0-9]+)\w*',area.get_text())
+                area = re.findall(r'(\w*[0-9]+\.*[0-9]*)\w*',area.get_text())
                 price_per_area = float(price)/float(area[0])
                 print(price,'-----',area,'-----',price_per_area,'-----------\n')
                 try:

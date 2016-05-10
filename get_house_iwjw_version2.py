@@ -41,7 +41,16 @@ house_name = ['古桐公寓',
               '古桐三村',
               '建中路461弄',
               '建中路171弄',
-              '汤臣豪园'
+              '汤臣豪园',
+              '奥林匹克花园',
+              '武夷花园',
+              '精益公寓',
+              '长宁路1488弄',
+              '新青浦佳园',
+              '新青浦花苑',
+              '武夷大楼',
+              '交江大楼',
+              '玉兰香苑'
               ]
 
 config = {
@@ -67,6 +76,18 @@ def delete_today_data(config):
     finally:
         connection.close()
     print('-----------------------delete success!----------------','\n')
+
+
+def get_iwjw_url(url_number,housename):
+    print('--------------------------',url_number,housename)
+    urls = []
+    url_begin = 'http://www.iwjw.com/sale/shanghai/?kw='
+    for i in range(1,url_number+1):
+        urls.append(i)
+        url_middle = quote(housename[i-1])
+        #print(url_middle)
+        urls[i-1] = url_begin + url_middle
+    return urls
 
 def get_iwjw_house(urls,source):
     for url in urls:
@@ -98,7 +119,8 @@ def get_iwjw_house(urls,source):
                 name = name.get_text().strip()
                 name = name.encode('UTF-8', 'ignore')
                 price = price.get_text()
-                area = re.findall(r'(\w*[0-9]+\.*[0-9]+)\w*',area.get_text())
+                area = re.findall(r'(\w*[0-9]+\.*[0-9]*)\w*',area.get_text())
+                print('----------------------',area)
                 price_per_area = float(price)/float(area[0])
                 print(price,'-----',area,'-----',price_per_area,'-----------\n')
                 try:
