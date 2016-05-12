@@ -223,9 +223,9 @@ def get_iwjw_house(urls,source):
             url = url_base + more_page + urls[1]
             web_data = requests.get(url)
             soup = BeautifulSoup(web_data.text,'lxml')
-            house_name = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div > h4 > b > a > i')
-            house_price = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div > h5 > i.Hp > b')
-            house_area = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div > h5 > i.i2')
+            house_name = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div.f-l > h4 > b > a > span > span:nth-of-type(1)')
+            house_area = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div.f-l > h4 > b > a > span > span:nth-of-type(3)')
+            house_price = soup.select('div.mod-lists.mb50.clearfix > div:nth-of-type(1) > ol > li > div.house-price > span.total-text')
             for name,price,area in zip (house_name,house_price,house_area):
                 print(name,price,area)
                 connection = pymysql.connect(**config)
