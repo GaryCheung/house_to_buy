@@ -142,13 +142,15 @@ def get_fangdd_house(urls,source):
                 connection = pymysql.connect(**config)
                 price = price.get_text()
                 area = re.findall(r'(\w*[0-9]+\.*[0-9]+)\w*',area.get_text())
+                name = name.get_text()
+                name = name.encode('UTF-8','ignore')
                 price_per_area = float(price)/float(area[0])
                 print('real mysql info',price,'-----',area,'-----',price_per_area,'-----------\n')
                 try:
                     with connection.cursor() as cursor:
                 # 执行sql语句，插入记录
                          sql = 'INSERT INTO house (date, house_name, house_price, house_area, source, price_per_area) VALUES (%s, %s, %s, %s, %s, %s)'
-                         cursor.execute(sql, (present_date, name.get_text(), price, area, source, price_per_area))
+                         cursor.execute(sql, (present_date, name, price, area, source, price_per_area))
                 # 没有设置默认自动提交，需要主动提交，以保存所执行的语句
                     connection.commit()
                 finally:
