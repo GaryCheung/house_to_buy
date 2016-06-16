@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e851895-4467-4815-9c1d-ff5f0cd2c7d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_house_fangdd_version2.py" afterPath="$PROJECT_DIR$/get_house_fangdd_version2.py" />
     </list>
     <ignored path="house_to_buy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +17,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get_house_version2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_house_version2.py">
+      <file leaf-file-name="get_house_fangdd_version2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="56" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="278" selection-end-column="34" />
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="133" selection-end-column="15" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -36,34 +37,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_house_PHPsamedb_v1.0.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <file leaf-file-name="get_house_fangdd_continue_version3.0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46758103">
-              <caret line="81" column="59" selection-start-line="81" selection-start-column="59" selection-end-line="81" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.7568579">
+              <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_house_iwjw_version2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_house_iwjw_version2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="114" column="133" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="133" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -89,11 +70,12 @@
         <option value="$PROJECT_DIR$/get_house_lianjia.py" />
         <option value="$PROJECT_DIR$/get_house.py" />
         <option value="$PROJECT_DIR$/get_house_lianjia_version2.py" />
-        <option value="$PROJECT_DIR$/get_house_fangdd_version2.py" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/get_house_iwjw_version2.py" />
         <option value="$PROJECT_DIR$/get_house_version2.py" />
         <option value="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" />
+        <option value="$PROJECT_DIR$/get_house_fangdd_version2.py" />
+        <option value="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
       </list>
     </option>
   </component>
@@ -126,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,6 +128,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files" />
@@ -170,10 +152,10 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="show line&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../total" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.get_house_version2">
+  <component name="RunManager" selected="Python.get_house_PHPsamedb_v1.0">
     <configuration default="false" name="get_house" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,23 +169,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="house_to_buy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="get_house_iwjw" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="house_to_buy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_iwjw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -260,6 +225,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="house_to_buy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_iwjw_version2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_house_PHPsamedb_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="house_to_buy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -388,18 +370,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.get_house" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_house_iwjw" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in house_to_buy" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_house_version2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in house_to_buy" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_house_version2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_house_version2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_house" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in house_to_buy" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_house_iwjw" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_house_version2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_house" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in house_to_buy" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +450,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463309624516</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="change db to the same with PHP">
+      <created>1463493269524</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463493269525</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -520,7 +508,8 @@
     <MESSAGE value="fix bugs of name encoude" />
     <MESSAGE value="add 伟莱家园" />
     <MESSAGE value="add 东方丽景" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 东方丽景" />
+    <MESSAGE value="change db to the same with PHP" />
+    <option name="LAST_COMMIT_MESSAGE" value="change db to the same with PHP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -530,9 +519,81 @@
     <entry file="file://$PROJECT_DIR$/get_house_version2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_iwjw_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="133" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="16" selection-start-line="269" selection-start-column="16" selection-end-line="269" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="278" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_iwjw_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="133" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -558,7 +619,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,7 +645,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -610,7 +671,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -628,7 +689,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -638,7 +699,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -727,17 +788,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_house_lianjia_version2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="16" selection-start-line="269" selection-start-column="16" selection-end-line="269" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20646766">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018656716">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -749,28 +831,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_house_version2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="278" selection-end-column="34" />
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="133" selection-end-column="15" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46758103">
-          <caret line="81" column="59" selection-start-line="81" selection-start-column="59" selection-end-line="81" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.7568579">
+          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

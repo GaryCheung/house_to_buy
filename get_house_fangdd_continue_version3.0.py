@@ -133,9 +133,12 @@ def get_fangdd_house(urls,source):
     time.sleep(1)
     return flag
 
-delete_today_data(config)
+#delete_today_data(config)
+flag = 0
+house_name = house_name[flag:]
+
 url_number = len(house_name)
 source =['fangdd','lianjia','iwjw']
 
 fangdd_url = get_fangdd_url(url_number,house_name)
-get_fangdd_house(fangdd_url,source[0])
+go_on = get_fangdd_house(fangdd_url,source[0])
