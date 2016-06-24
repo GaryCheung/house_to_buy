@@ -166,7 +166,7 @@ def get_fangdd_house(urls,source):
     return flag
 
 #delete_today_data(config)
-flag = 38
+flag = 43+13
 house_name = house_name[flag:]
 
 url_number = len(house_name)

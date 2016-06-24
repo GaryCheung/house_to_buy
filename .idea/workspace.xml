@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e851895-4467-4815-9c1d-ff5f0cd2c7d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" afterPath="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py" afterPath="$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" afterPath="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
     </list>
     <ignored path="house_to_buy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_house_PHPsamedb_v3.0.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_house_PHPsamedb_v3.0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5746692">
-              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -61,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_house_fangdd_continue_version3.0.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_house_fangdd_continue_version3.0.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="124" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.94350284">
+              <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -99,9 +99,9 @@
         <option value="$PROJECT_DIR$/get_house_iwjw_version2.py" />
         <option value="$PROJECT_DIR$/get_house_version2.py" />
         <option value="$PROJECT_DIR$/get_house_fangdd_version2.py" />
-        <option value="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
         <option value="$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py" />
         <option value="$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py" />
+        <option value="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
       </list>
     </option>
   </component>
@@ -154,6 +154,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files" />
@@ -171,17 +172,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="show line&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../total" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.get_house_PHPsamedb_v3.0">
+  <component name="RunManager" selected="Python.get_house_fangdd_continue_version3.0">
     <configuration default="false" name="get_house_version2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,23 +195,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="house_to_buy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_version2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="get_house_iwjw_version2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="house_to_buy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_iwjw_version2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -263,6 +246,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="house_to_buy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_house_fangdd_continue_version3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="house_to_buy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -391,18 +391,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.get_house_version2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_house_fangdd_version2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v3.0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_house_fangdd_version2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v3.0" />
+      <item index="4" class="java.lang.String" itemvalue="Python.get_house_fangdd_continue_version3.0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v3.0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_house_fangdd_version2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_house_version2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_house_iwjw_version2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_house_fangdd_continue_version3.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v3.0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_house_PHPsamedb_v1.0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_house_fangdd_version2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.get_house_version2" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +495,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466078497708</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add fangdd continue code PHPsamedb part">
+      <created>1466213123117</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1466213123117</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -521,7 +527,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -558,13 +564,94 @@
     <MESSAGE value="add 东方丽景" />
     <MESSAGE value="change db to the same with PHP" />
     <MESSAGE value="add fangdd continue code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fangdd continue code" />
+    <MESSAGE value="add fangdd continue code PHPsamedb part" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fangdd continue code PHPsamedb part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get_house_fangdd_version2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -860,16 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="124" column="75" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v1.0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -882,8 +959,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_house_PHPsamedb_v3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5746692">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_house_fangdd_continue_version3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94350284">
+          <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
