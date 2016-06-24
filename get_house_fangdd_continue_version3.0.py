@@ -81,7 +81,7 @@ config = {
     'user':'root',
     'password':'19860112',
     'db':'house',
-    'charset':'gb2312'
+    'charset':'utf8'
 }
 
 present_date = datetime.now().date()
