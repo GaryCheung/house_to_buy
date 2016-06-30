@@ -79,7 +79,7 @@ config = {
     'host':'127.0.0.1',
     'port':3306,
     'user':'root',
-    'password':'19860112',
+    'password':'root',
     'db':'house',
     'charset':'utf8'
 }
@@ -140,11 +140,13 @@ def get_fangdd_house(urls,source):
             print('real----------------',url,'\n')
             web_data = requests.get(url_new)
             soup = BeautifulSoup(web_data.text,'lxml')
+            #print(soup)
             house_name = soup.select('body > div.contain.w1200 > div.main.clearfix > div.house-info.pull-left > div > div.bg_color.clearfix > div.content.pull-left > div.name-title.clearfix > a > span.name')
-            house_price = soup.select('body > div.contain.w1200 > div.main.clearfix > div.house-info.pull-left > div > div.bg_color.clearfix > div.price-panel.pull-right > h4 > span')
+            house_price = soup.select('body > div.contain.w1200 > div.main.clearfix > div.house-info.pull-left > div > div.bg_color.clearfix > div.price-panel.pull-right > span.content')
             house_area = soup.select('body > div.contain.w1200 > div.main.clearfix > div.house-info.pull-left > div > div.bg_color.clearfix > div.content.pull-left > div.name-title.clearfix > a > span.area')
+            print(house_name,house_price,house_area)
             for name,price,area in zip(house_name,house_price,house_area):
-                #print(name,price,area)
+                print(name,price,area)
                 connection = pymysql.connect(**config)
                 price = price.get_text()
                 area = re.findall(r'(\w*[0-9]+\.*[0-9]+)\w*',area.get_text())
